@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: Talk to me on instagram [@yaco.angeleri](https://www.instagram.com/yaco.angeleri/)
 
-# ¿Que onda?
+# ¿Como estan?
 
-**Ni idea gente, estoy probando esto jajaj**
+**Me llamo Yaco**
 
-*Saludos gente bai*
+*Saludos gente un placer*
 
 <!---
 YacoAngeleri/YacoAngeleri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
