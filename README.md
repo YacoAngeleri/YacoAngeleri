@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @YacoAngeleri
-- 👀 I’m interested in modeling
-- 🌱 I’m currently learning artes multimediales
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming and multimedial arts
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: Talk to me on instagram [@yaco.angeleri](https://www.instagram.com/yaco.angeleri/)
 
 # ¿Como estan?
 
-**Me llamo Yaco**
+**Me llamo Tomas Yaco Angeleri**
 
-*Saludos gente un placer*
+*Soy estudiante del programa de programacion de Alura latam y One Oracle*
 
 <!---
 YacoAngeleri/YacoAngeleri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
