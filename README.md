@@ -1,8 +1,9 @@
 ## Hello👋
 
 - My name is Yaco, i'm from Argentina
-- I’m currently studying programming in the One Oracle and Alura Latam program
-- I am passionate about programming, specifically in HTML, CSS, JavaScript, and various frameworks. I am looking to start my career as a programmer, being proactive, organized, and highly interested in learning and applying new technologies and creative solutions to technical problems. I am willing to work hard and continuously learn in order to bring value to my future employer.
+- I’m currently studying System engineering at UTN (Universidad tecnologica nacional de Argentina), , with an interest in the analysis, design, and development of systems aimed at solving real-world problems through technology.
+- I complemented my academic training with the Oracle Next Education program, where I completed the Front-End track, gaining experience in web development and working on practical projects.
+I am interested in continuing to grow in the field of systems, participating in technology projects that integrate analysis, development, and innovation.
 
 ## Skills
 - JavaScript
