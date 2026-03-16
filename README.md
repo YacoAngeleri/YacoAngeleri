@@ -7,6 +7,7 @@ I am interested in continuing to grow in the field of systems, participating in 
 
 ## Skills
 - JavaScript
+- C / C++
 - HTML
 - CSS
 - Bootstrap
