@@ -58,7 +58,7 @@ Technologies: HTML, CSS, JavaScript
 
 ## Contact
 
-📧 Email: Yacoang@gmail.com (mailto:yacoang@gmail.com)
+📧 Email: Yacoang@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/tomas-yaco-angeleri-6871ba26a
 💻 GitHub: https://github.com/YacoAngeleri
 
