@@ -29,10 +29,10 @@ C • JavaScript • HTML • CSS
 
 **Concepts**
 
-Data Structures
-Object-Oriented Programming
-Operating Systems
-Computer Architecture
+* Data Structures
+* Object-Oriented Programming
+* Operating Systems
+* Computer Architecture
 
 **Tools**
 
@@ -58,9 +58,9 @@ Technologies: HTML, CSS, JavaScript
 
 ## Contact
 
-📧 Email: Yacoang@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/tomas-yaco-angeleri-6871ba26a
-💻 GitHub: https://github.com/YacoAngeleri
+* 📧 Email: Yacoang@gmail.com
+* 🔗 LinkedIn: www.linkedin.com/in/tomas-yaco-angeleri-6871ba26a
+* 💻 GitHub: https://github.com/YacoAngeleri
 
 ---
 
