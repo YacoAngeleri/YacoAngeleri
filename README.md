@@ -1,18 +1,67 @@
-## Hello👋
+# Hi, I'm Tomás Yaco 👋
 
-- My name is Yaco, I am currently studying System engineering at UTN (Universidad tecnologica nacional de Argentina), , with an interest in the analysis, design, and development of systems aimed at solving real-world problems through technology.
-- I complemented my academic training with the Oracle Next Education program, where I completed the Front-End track, gaining experience in web development and working on practical projects.
-I am interested in continuing to grow in the field of systems, participating in technology projects that integrate analysis, development, and innovation.
+🎓 Systems Engineering student at UTN (3rd year)
+💻 Interested in software development, operating systems and backend technologies
+🌎 Based in Buenos Aires, Argentina
 
-## Skills
-- JavaScript
-- C / C++
-- HTML
-- CSS
-- Bootstrap
-- Git
-- React
+---
+
+## About Me
+
+I am currently studying **Information Systems Engineering at UTN** and developing my programming skills through university projects and personal learning.
+
+I enjoy working on projects related to:
+
+* Systems programming
+* Operating systems
+* Software development
+* Web applications
+
+Currently looking for my **first opportunity in the tech industry** to continue learning and contributing to real-world projects.
+
+---
+
+## Technologies
+
+**Languages**
+
+C • JavaScript • HTML • CSS
+
+**Concepts**
+
+Data Structures
+Object-Oriented Programming
+Operating Systems
+Computer Architecture
+
+**Tools**
+
+Git • GitHub • Visual Studio Code
+
+---
+
+## Featured Projects
+
+🔹 **Operating System Simulator**
+Simulation of an operating system composed of Kernel, CPU, Memory and I/O modules communicating through sockets.
+Language: C
+
+🔹 **AluraFlix**
+Web application built with React to manage and display categorized video content.
+Technologies: React, JavaScript, CSS
+
+🔹 **Text Encryptor**
+Simple web application that encrypts and decrypts text using JavaScript.
+Technologies: HTML, CSS, JavaScript
+
+---
 
 ## Contact
-- Email: Yacoang@gmail.com
-- Linkedin: www.linkedin.com/in/tomas-yaco-angeleri-6871ba26a
+
+📧 Email: Yacoang@gmail.com (mailto:yacoang@gmail.com)
+🔗 LinkedIn: www.linkedin.com/in/tomas-yaco-angeleri-6871ba26a
+💻 GitHub: https://github.com/YacoAngeleri
+
+---
+
+⭐ Always learning and improving my programming skills.
